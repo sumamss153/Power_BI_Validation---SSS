@@ -1,0 +1,7 @@
+databasetype = postgres
+hostname = localhost
+port = 5432
+username = postgres
+password = pgadmin
+database = "postgres"
+datasourcetype = database
